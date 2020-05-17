@@ -1,1 +1,3 @@
-# capstone1-BigMountain
+# Capstone1
+# Big Mountain Resort
+# Step 2 File
